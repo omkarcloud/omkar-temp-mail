@@ -21,7 +21,7 @@ def get_description():
 setup(
     name='omkar-temp-mail',
     packages=['omkar-temp-mail'],
-    version='1.0.1',
+    version='1.0.2',
     license='MIT',
     project_urls={
         "Documentation": "https://github.com/omkarcloud/omkar-temp-mail",
@@ -29,7 +29,7 @@ setup(
         "Tracker": "https://github.com/omkarcloud/omkar-temp-mail/issues",
     },
 
-    description="The Ultimate Web Scraping Framework",
+    description="Use Omkar Temporary for receiving temporary emails",
     long_description=get_description(),
     # long_description_content_type="text/markdown",
     author='Chetan Jain',
